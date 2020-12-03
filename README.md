@@ -11,6 +11,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 
 * Day 1: Report Repair
 * Day 2: Password Philosophy
+* Day 3: Toboggan Trajectory
 
 ## Poems
 
@@ -31,7 +32,7 @@ And lounge at this atoll.
 These five long years have left their mark,  
 And R&R will hit the spot.  
 Put down the Scala and the Spark,  
-Put Lispy cars all into park,  
+Put `Lisp`y `car`s all into park,  
 And watch a dolphin (or a shark),  
 From deck chairs, on a yacht.  
 
@@ -99,7 +100,27 @@ And said, "Then we'll make them right here.
 And we'll type up a memo and send it around  
 With the passwords and rules for the year."  
 
-In the evening, the suits filed out through the door.  
+In the evening, the suits filed out through the door,  
 Corporate policy written anew.  
 And the suit in the center sat down at his screen,  
 And, for `password`, he typed `hunter2`.
+
+### Day 3: The Forest for the Trees
+
+Your coat and hood  
+In case you freeze.  
+You think you're good,  
+But ill at ease.  
+From where you stood,  
+You felt the breeze  
+Blow through the wood  
+And towards the trees.  
+
+The sled withstood  
+Much more than skis,  
+On which you would  
+Have broke your knees.  
+Just know you should  
+Count your degrees,  
+To miss the wood  
+Among the trees.
