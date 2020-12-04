@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     17225,        435]
-NotebookOptionsPosition[     15377,        392]
-NotebookOutlinePosition[     15770,        408]
-CellTagsIndexPosition[     15727,        405]
+NotebookDataLength[     17376,        438]
+NotebookOptionsPosition[     15528,        395]
+NotebookOutlinePosition[     15921,        411]
+CellTagsIndexPosition[     15878,        408]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -147,12 +147,15 @@ Cell[BoxData[
     RowBox[{
      RowBox[{"If", "[", 
       RowBox[{
-       RowBox[{"StringMatchQ", "[", 
-        RowBox[{"#", ",", 
-         RowBox[{
-          RowBox[{"Alternatives", "[", 
-           RowBox[{"\"\<+\>\"", ",", "\"\<-\>\"", ",", "\"\<\>\""}], "]"}], "~~", 
-          RowBox[{"DigitCharacter", ".."}]}]}], "]"}], ",", 
+       RowBox[{
+        RowBox[{"!", 
+         RowBox[{"IntegerQ", "[", "#", "]"}]}], "\[And]", 
+        RowBox[{"StringMatchQ", "[", 
+         RowBox[{"#", ",", 
+          RowBox[{
+           RowBox[{"Alternatives", "[", 
+            RowBox[{"\"\<+\>\"", ",", "\"\<-\>\"", ",", "\"\<\>\""}], "]"}], "~~", 
+           RowBox[{"DigitCharacter", ".."}]}]}], "]"}]}], ",", 
        RowBox[{"ToExpression", "[", "#", "]"}], ",", "#"}], "]"}], "&"}], ",",
      "\[IndentingNewLine]", "inputText", ",", "\[IndentingNewLine]", 
     RowBox[{"{", "2", "}"}]}], "]"}]}]], "Input",
@@ -182,8 +185,8 @@ Cell[BoxData[
    3.815763703859187*^9}, {3.815765441022644*^9, 3.815765441115354*^9}, {
    3.815765482943943*^9, 3.8157654886508617`*^9}, {3.815766199643338*^9, 
    3.8157662132836123`*^9}, {3.815766357419388*^9, 3.815766360532305*^9}, {
-   3.815773469390253*^9, 
-   3.815773562128138*^9}},ExpressionUUID->"63a19cb1-d5e2-45d5-8a72-\
+   3.815773469390253*^9, 3.815773562128138*^9}, {3.816046645451871*^9, 
+   3.816046650577652*^9}},ExpressionUUID->"63a19cb1-d5e2-45d5-8a72-\
 c487b685f1e8"]
 }, Open  ]],
 
@@ -429,11 +432,11 @@ Cell[CellGroupData[{
 Cell[3896, 126, 166, 3, 68, "Section",ExpressionUUID->"93daab8d-5695-4552-8593-add5aa43afcc"],
 Cell[CellGroupData[{
 Cell[4087, 133, 262, 5, 54, "Subsection",ExpressionUUID->"c6e0e6b0-8399-417e-a56d-d217f50a603f"],
-Cell[4352, 140, 2716, 46, 113, "Input",ExpressionUUID->"63a19cb1-d5e2-45d5-8a72-c487b685f1e8"]
+Cell[4352, 140, 2867, 49, 113, "Input",ExpressionUUID->"63a19cb1-d5e2-45d5-8a72-c487b685f1e8"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[7105, 191, 251, 4, 54, "Subsection",ExpressionUUID->"e6c0e2c5-8e52-4ec3-aacb-17a79aa63a1d"],
-Cell[7359, 197, 7978, 190, 381, "Input",ExpressionUUID->"9a15dbee-1163-4296-be53-aa82bf97c200"]
+Cell[7256, 194, 251, 4, 54, "Subsection",ExpressionUUID->"e6c0e2c5-8e52-4ec3-aacb-17a79aa63a1d"],
+Cell[7510, 200, 7978, 190, 381, "Input",ExpressionUUID->"9a15dbee-1163-4296-be53-aa82bf97c200"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]

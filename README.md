@@ -12,6 +12,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 1: Report Repair
 * Day 2: Password Philosophy
 * Day 3: Toboggan Trajectory
+* Day 4: Passport Processing
 
 ## Poems
 
@@ -123,4 +124,36 @@ Have broke your knees.
 Just know you should  
 Count your degrees,  
 To miss the wood  
-Among the trees.
+Among the trees.  
+
+### Day 4: Hacker Man
+
+His name's, perhaps, 'Enigma', or perhaps it's 'Slice' or 'Root'.  
+He wears, at all times, sunglasses, and black trenchcoats to boot.  
+He'll walk into an airport and he'll never miss a flight,  
+For no network in the world can beat the Hacker in a fight.  
+
+You've seen his like in movies, and you've glimpsed him on TV,  
+But you won't see him coming when he comes to steal your key.  
+A few know him as '4chan', and he's 'Kill-o-byte' to some.  
+For the Hacker Man has many names.  That's just who he's become.  
+
+His power's at its greatest when he's at his lair, at home,  
+With his twenty-three computers, all with monitors in chrome.  
+Their typefaces are black and green, with loading bars abound,  
+And can zoom in on a picture till bacteria are found.  
+
+He has a pair of keyboards, lit with green and flickered light,  
+And can type with both or either when he's cracking through a site.  
+With both, he types five hundred words a minute at his peak,  
+And with nary but a whistle he can cause a phone to phreak.  
+
+[No firewall](https://adventofcode.com/2016/day/20) can [keep him out](https://adventofcode.com/2017/day/13), no [password slows him down](https://adventofcode.com/2020/day/2),  
+No server can stay up at all if Hacker Man's in town.  
+He never paid for Winrar, and his passwords can't be guessed,  
+And he decides to use the DarkWeb...well, you know the rest.  
+
+But there are other hackers out there, blacker hat than he,  
+And they would hack the planet with an opportunity.  
+Be glad he's on the side of good, and that he won't be swayed.  
+He can't be all *that* naughty; Santa's called upon his aid.  
