@@ -13,6 +13,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 2: Password Philosophy
 * Day 3: Toboggan Trajectory
 * Day 4: Passport Processing
+* Day 5: Binary Boarding
 
 ## Poems
 
@@ -157,3 +158,11 @@ But there are other hackers out there, blacker hat than he,
 And they would hack the planet with an opportunity.  
 Be glad he's on the side of good, and that he won't be swayed.  
 He can't be all *that* naughty; Santa's called upon his aid.  
+
+### Day 5: Lazy Limerick
+
+You must do a binary conversion,  
+Before begin your excursion.  
+(And I'll give you a hint:  
+Use `binaryToInt()`,  
+'Cause it's simpler than using recursion).
