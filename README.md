@@ -14,6 +14,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 3: Toboggan Trajectory
 * Day 4: Passport Processing
 * Day 5: Binary Boarding
+* Day 6: Custom Customs
 
 ## Poems
 
@@ -166,3 +167,42 @@ Before begin your excursion.
 (And I'll give you a hint:  
 Use `binaryToInt()`,  
 'Cause it's simpler than using recursion).
+
+### Day 6: Quaint Customs & Curious Questions
+
+The customs at this airport, people say,  
+Are short, and simpler than in other ports.  
+But all the questions asked, from Z to A,  
+Are never questions of the normal sorts:
+
+- Are mirrors really real if even our own eyes are not?
+- Buy anything abroad that really can't be sold or bought?
+- Do people call you on the phone you're trying to avoid?
+- Can the people on TV see me or am I just paranoid?
+- Ever shot a man in Reno, just to watch him die?
+- Forget your coat or luggage when you came on board to fly?
+- Got any chapstick you could spare?  The air here's awfully cold.
+- Hot dogs: are they sandwiches with bread that has a fold?
+- I meant to cut this question out - the next one too, in fact.
+- Just fill them with a 'yes' or 'no', no need to be exact.
+- Kazoos and old harmonicas: can newer stuff compare?
+- Lose any luggage -- wait, that's question G, a ways up there.
+- Made any mashed potatoes lately?  Did they turn out well?
+- Noticed any odd designs on anyone's lapel?
+- Of course, you might not know this, since it's pretty tricky stuff:
+- Part 2 from 2017's day sixteen: was it tough?
+- Question seventeen's a breeze: is this short sentence true? 
+- Right, back to other matters: ever gotten a tattoo?
+- So since tomatoes are a fruit, can they go in a pie? 
+- Then shouldn't pineapples on pizza work well?  What's awry?
+- Until today, have coding puzzles kept you up at night?
+- Vegemite's a sandwich thing Down Under, is that right?
+- When you were younger, did you ever skip on school?
+- Xtreme Kool LetterZ - do they work to make you hip and cool?
+- You ever watched the movie "Fastest Bullet in the West?
+- Zymurgy's a real good Scrabble word - is it the best?
+
+The questions never have made sense to me  
+(Aside from the song lyrics under `A`).  
+But tedious the nonsense form might be...   
+...this custom surely beats the TSA.
