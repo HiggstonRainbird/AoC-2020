@@ -15,6 +15,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 4: Passport Processing
 * Day 5: Binary Boarding
 * Day 6: Custom Customs
+* Day 7: Handy Haversacks
 
 ## Poems
 
@@ -206,3 +207,28 @@ The questions never have made sense to me
 (Aside from the song lyrics under `A`).  
 But tedious the nonsense form might be...   
 ...this custom surely beats the TSA.
+
+### Day 7: Lost & Found
+
+This `gold` and `shiny` bag I grabbed today,  
+Belongs to someone else, I am afraid.  
+Can you make an announcement, please, and say,  
+"Please come to the front desk so you can trade"?  
+
+I think we each grabbed one another's gear,  
+When we saw them go by the carousel.  
+See, mine's a `mirrored yellow`, nice and sheer,  
+I mixed them up; I think he did as well.  
+
+I only noticed when I looked within,  
+And seven thousand bags came through the shine.  
+My own bag's lining must be very thin,  
+For I can fit just ninety bags in mine.  
+
+Ahh, there you are, my friend, there, now it's right.  
+And Merry Christmas too!  Enjoy your flight!  
+
+
+
+
+
