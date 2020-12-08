@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     17376,        438]
-NotebookOptionsPosition[     15528,        395]
-NotebookOutlinePosition[     15921,        411]
-CellTagsIndexPosition[     15878,        408]
+NotebookDataLength[     21418,        539]
+NotebookOptionsPosition[     19113,        488]
+NotebookOutlinePosition[     19506,        504]
+CellTagsIndexPosition[     19463,        501]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -27,10 +27,11 @@ d3b4eefcb55c"],
 
 Cell["\<\
 Created November 29th, 2020.
-Last updated December 2nd, 2020.\
+Last updated December 7th, 2020.\
 \>", "Text",
- CellChangeTimes->{{3.8158725928759727`*^9, 
-  3.815872605567252*^9}},ExpressionUUID->"6345e55e-b9f9-4fe2-bcf7-\
+ CellChangeTimes->{{3.8158725928759727`*^9, 3.815872605567252*^9}, {
+  3.816373779263719*^9, 
+  3.816373779365851*^9}},ExpressionUUID->"6345e55e-b9f9-4fe2-bcf7-\
 5e95ee4cc5bb"],
 
 Cell[CellGroupData[{
@@ -118,6 +119,98 @@ Cell[BoxData[
    3.815765235416636*^9, 
    3.8157652418647614`*^9}},ExpressionUUID->"3f700401-2e1e-4dac-a816-\
 dcd4637c02e9"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["String Manipulation", "Subsection",
+ CellChangeTimes->{{3.81637381480543*^9, 
+  3.816373816915*^9}},ExpressionUUID->"9d81aceb-cd83-4054-a53f-0a8d10070266"],
+
+Cell[CellGroupData[{
+
+Cell["Parenthesis Matching", "Subsubsection",
+ CellChangeTimes->{{3.816373819755669*^9, 
+  3.816373821906213*^9}},ExpressionUUID->"a48496f3-046e-4040-86a6-\
+2f57904a5801"],
+
+Cell["\<\
+This returns a list of all pairs of matching parentheses from a list of \
+characters.\
+\>", "Text",
+ CellChangeTimes->{{3.81637382353412*^9, 
+  3.816373864250387*^9}},ExpressionUUID->"a04a0b08-b097-4fd8-98b5-\
+c0200b6bf6af"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"parenPositions", "[", "input_List", "]"}], ":=", 
+  "\[IndentingNewLine]", 
+  RowBox[{"Module", "[", "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{"posList", ",", "ds", ",", "char"}], "}"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{
+     RowBox[{"posList", "=", 
+      RowBox[{"{", "}"}]}], ";", "\[IndentingNewLine]", 
+     RowBox[{"ds", "=", 
+      RowBox[{"CreateDataStructure", "[", "\"\<Stack\>\"", "]"}]}], ";", 
+     "\[IndentingNewLine]", 
+     RowBox[{"Do", "[", "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"char", "=", 
+         RowBox[{
+         "input", "\[LeftDoubleBracket]", "pos", "\[RightDoubleBracket]"}]}], 
+        ";", "\[IndentingNewLine]", 
+        RowBox[{"Which", "[", "\[IndentingNewLine]", 
+         RowBox[{
+          RowBox[{"char", "\[Equal]", "\"\<(\>\""}], ",", 
+          RowBox[{"ds", "[", 
+           RowBox[{"\"\<Push\>\"", ",", 
+            RowBox[{"{", 
+             RowBox[{"\"\<(\>\"", ",", "pos"}], "}"}]}], "]"}], ",", 
+          "\[IndentingNewLine]", 
+          RowBox[{"char", "\[Equal]", "\"\<)\>\""}], ",", 
+          "\[IndentingNewLine]", "\t", 
+          RowBox[{"If", "[", "\[IndentingNewLine]", "\t", 
+           RowBox[{
+            RowBox[{
+             RowBox[{
+              RowBox[{"ds", "[", "\"\<Peek\>\"", "]"}], 
+              "\[LeftDoubleBracket]", "1", "\[RightDoubleBracket]"}], 
+             "\[Equal]", "\"\<(\>\""}], ",", "\[IndentingNewLine]", "\t", 
+            RowBox[{
+             RowBox[{"AppendTo", "[", 
+              RowBox[{"posList", ",", 
+               RowBox[{"{", 
+                RowBox[{
+                 RowBox[{
+                  RowBox[{"ds", "[", "\"\<Peek\>\"", "]"}], 
+                  "\[LeftDoubleBracket]", "2", "\[RightDoubleBracket]"}], ",",
+                  "pos"}], "}"}]}], "]"}], ";", 
+             RowBox[{"ds", "[", "\"\<Pop\>\"", "]"}]}], ",", 
+            "\[IndentingNewLine]", "\t", 
+            RowBox[{"ds", "[", 
+             RowBox[{"\"\<Push\>\"", ",", 
+              RowBox[{"{", 
+               RowBox[{"\"\<)\>\"", ",", "pos"}], "}"}]}], "]"}]}], "]"}]}], 
+         "\[IndentingNewLine]", "]"}]}], ",", "\[IndentingNewLine]", 
+       RowBox[{"{", 
+        RowBox[{"pos", ",", 
+         RowBox[{"Length", "[", "input", "]"}]}], "}"}]}], "]"}], ";", 
+     "\[IndentingNewLine]", 
+     RowBox[{"Sort", "[", "posList", "]"}]}]}], "\[IndentingNewLine]", 
+   "]"}]}]], "Input",
+ CellChangeTimes->{{3.816362493482317*^9, 3.816362510748551*^9}, {
+  3.816362586400778*^9, 3.816362846255884*^9}, {3.816362920091444*^9, 
+  3.816362927074953*^9}, {3.816363123319013*^9, 3.816363160627936*^9}, {
+  3.816363200165414*^9, 3.8163632156449213`*^9}, {3.816363265231237*^9, 
+  3.816363268014336*^9}, {3.816373846613187*^9, 
+  3.81637390441975*^9}},ExpressionUUID->"0412f050-2b69-4939-9d7d-\
+7db6e4292e3f"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]],
@@ -412,31 +505,39 @@ CellTagsIndex->{}
 Notebook[{
 Cell[CellGroupData[{
 Cell[580, 22, 167, 3, 98, "Title",ExpressionUUID->"40eeca71-b2aa-41cf-98de-d3b4eefcb55c"],
-Cell[750, 27, 213, 6, 58, "Text",ExpressionUUID->"6345e55e-b9f9-4fe2-bcf7-5e95ee4cc5bb"],
+Cell[750, 27, 262, 7, 58, "Text",ExpressionUUID->"6345e55e-b9f9-4fe2-bcf7-5e95ee4cc5bb"],
 Cell[CellGroupData[{
-Cell[988, 37, 163, 3, 68, "Section",ExpressionUUID->"888446f3-49cf-4cd1-9e8c-65053dc04595"],
+Cell[1037, 38, 163, 3, 68, "Section",ExpressionUUID->"888446f3-49cf-4cd1-9e8c-65053dc04595"],
 Cell[CellGroupData[{
-Cell[1176, 44, 165, 3, 54, "Subsection",ExpressionUUID->"a88c6993-5086-40d9-a5ca-36bee2bace2d"],
+Cell[1225, 45, 165, 3, 54, "Subsection",ExpressionUUID->"a88c6993-5086-40d9-a5ca-36bee2bace2d"],
 Cell[CellGroupData[{
-Cell[1366, 51, 163, 3, 45, "Subsubsection",ExpressionUUID->"df6c46b8-253e-4d3d-ad4a-891f4d6bfd41"],
-Cell[1532, 56, 751, 21, 29, "Input",ExpressionUUID->"565ae64b-8587-4395-a21b-219210ad704c"]
+Cell[1415, 52, 163, 3, 45, "Subsubsection",ExpressionUUID->"df6c46b8-253e-4d3d-ad4a-891f4d6bfd41"],
+Cell[1581, 57, 751, 21, 29, "Input",ExpressionUUID->"565ae64b-8587-4395-a21b-219210ad704c"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2320, 82, 234, 4, 45, "Subsubsection",ExpressionUUID->"cc5dbd38-2078-4453-9a0f-5e6f4a3095f5"],
-Cell[2557, 88, 461, 9, 58, "Text",ExpressionUUID->"72d98423-978a-4e5b-b292-781f9bd63384"],
-Cell[3021, 99, 814, 20, 29, "Input",ExpressionUUID->"3f700401-2e1e-4dac-a816-dcd4637c02e9"]
+Cell[2369, 83, 234, 4, 45, "Subsubsection",ExpressionUUID->"cc5dbd38-2078-4453-9a0f-5e6f4a3095f5"],
+Cell[2606, 89, 461, 9, 58, "Text",ExpressionUUID->"72d98423-978a-4e5b-b292-781f9bd63384"],
+Cell[3070, 100, 814, 20, 29, "Input",ExpressionUUID->"3f700401-2e1e-4dac-a816-dcd4637c02e9"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3933, 126, 161, 2, 54, "Subsection",ExpressionUUID->"9d81aceb-cd83-4054-a53f-0a8d10070266"],
+Cell[CellGroupData[{
+Cell[4119, 132, 171, 3, 45, "Subsubsection",ExpressionUUID->"a48496f3-046e-4040-86a6-2f57904a5801"],
+Cell[4293, 137, 234, 6, 35, "Text",ExpressionUUID->"a04a0b08-b097-4fd8-98b5-c0200b6bf6af"],
+Cell[4530, 145, 2890, 67, 381, "Input",ExpressionUUID->"0412f050-2b69-4939-9d7d-7db6e4292e3f"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[3896, 126, 166, 3, 68, "Section",ExpressionUUID->"93daab8d-5695-4552-8593-add5aa43afcc"],
+Cell[7481, 219, 166, 3, 68, "Section",ExpressionUUID->"93daab8d-5695-4552-8593-add5aa43afcc"],
 Cell[CellGroupData[{
-Cell[4087, 133, 262, 5, 54, "Subsection",ExpressionUUID->"c6e0e6b0-8399-417e-a56d-d217f50a603f"],
-Cell[4352, 140, 2867, 49, 113, "Input",ExpressionUUID->"63a19cb1-d5e2-45d5-8a72-c487b685f1e8"]
+Cell[7672, 226, 262, 5, 54, "Subsection",ExpressionUUID->"c6e0e6b0-8399-417e-a56d-d217f50a603f"],
+Cell[7937, 233, 2867, 49, 113, "Input",ExpressionUUID->"63a19cb1-d5e2-45d5-8a72-c487b685f1e8"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[7256, 194, 251, 4, 54, "Subsection",ExpressionUUID->"e6c0e2c5-8e52-4ec3-aacb-17a79aa63a1d"],
-Cell[7510, 200, 7978, 190, 381, "Input",ExpressionUUID->"9a15dbee-1163-4296-be53-aa82bf97c200"]
+Cell[10841, 287, 251, 4, 54, "Subsection",ExpressionUUID->"e6c0e2c5-8e52-4ec3-aacb-17a79aa63a1d"],
+Cell[11095, 293, 7978, 190, 381, "Input",ExpressionUUID->"9a15dbee-1163-4296-be53-aa82bf97c200"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
