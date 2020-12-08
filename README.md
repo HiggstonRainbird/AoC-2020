@@ -16,6 +16,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 5: Binary Boarding
 * Day 6: Custom Customs
 * Day 7: Handy Haversacks
+* Day 8: Handheld Halting
 
 ## Poems
 
@@ -227,6 +228,64 @@ For I can fit just ninety bags in mine.
 
 Ahh, there you are, my friend, there, now it's right.  
 And Merry Christmas too!  Enjoy your flight!  
+
+### Day 8: [With Apologies to J. Brander Matthews](https://thelocalyarn.com/excursus/secretary/posts/04-en-route.html)
+
+Here we are riding the plane,  
+Gliding from out of the station.  
+Puzzles keep racking my brain  
+Though I'm on break for vacation.  
+
+Gliding from out of the station,  
+I try to order a drink.  
+Though I'm on break for vacation,  
+Don't think I'll get time to think.  
+
+I try to order a drink,  
+Just like that, I have some trouble.  
+Don't think I'll get time to think,  
+All of my tasks seem to double.  
+
+Just like that, I have some trouble,  
+Handheld's not halting, you see.  
+All of my tasks seem to double,  
+Never just one task, or three.  
+
+Handheld's not halting, you see,  
+It's running tasks without stopping.  
+Never just one task, or three,  
+I should get in and start swapping.  
+
+It's running tasks without stopping,  
+Due to one critical byte.  
+I should get in and start swapping,  
+Presto! It's now working right.  
+
+Due to one critical byte,  
+Gameboy boots up with a chime.  
+Presto!  It's now working right.  
+I set my seat to recline.  
+
+Gameboy boots up with a chime.  
+Stars are my thanks for repairing.  
+I set my seat to recline,  
+Now, though, I'm thinking, declaring.  
+
+Stars are my thanks for repairing:  
+I've solved a puzzle today,  
+Now, though, I'm thinking, declaring,  
+"I bet there's more on their way".  
+
+I've solved a puzzle today,  
+As we fly over the isthmus.  
+I bet there's more on their way.  
+I guess we can't run from Christmas.  
+
+As we fly over the isthmus,  
+Puzzles keep racking my brain.  
+I guess we can't run from Christmas,  
+So here we are, riding the plane.  
+
 
 
 
