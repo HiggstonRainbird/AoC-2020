@@ -286,6 +286,46 @@ Puzzles keep racking my brain.
 I guess we can't run from Christmas,  
 So here we are, riding the plane.  
 
+### Day 9: The Gadgeteer
+
+With a paperclip and  
+One or two bits of string,  
+I can make a device  
+Out of any old thing.  
+
+Hack a port?  Piece of cake.  
+Build a laser?  No sweat.  
+There could be a tough test  
+But I've not found it yet.  
+
+If you'd hand me that phone,  
+And you'd pass me that spoon,  
+I could refit this plane  
+To fly straight to the moon.  
+
+Yes, MacGuyver's the best;  
+Showed me all my first tricks.  
+It inspired my first  
+Gadget, made out of sticks.  
+
+I admit this device  
+Is a tad bit unsafe,  
+But reactors are fun  
+And restrictions can chafe.  
+
+And besides, I bet you  
+Never saw one of these  
+Made of zippers and twine,  
+Held together with cheese.  
+
+So just grab this end here,  
+And zip 'up' when I say.  
+I can promise our flight  
+Won't be boring today.  
+
+
+
+
 
 
 
