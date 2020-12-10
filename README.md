@@ -17,6 +17,8 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 6: Custom Customs
 * Day 7: Handy Haversacks
 * Day 8: Handheld Halting
+* Day 9: Encoding Error
+* Day 10: Adapter Array
 
 ## Poems
 
@@ -323,6 +325,25 @@ And zip 'up' when I say.
 I can promise our flight  
 Won't be boring today.  
 
+### Day 10: In Loving Memory of Battery (2020-2020)
+
+The battery is dead, its charge is spent.  
+It lasted just as long as it was able.  
+Its host device, with messages unsent,  
+Reposes, as its coffin, on the table.  
+
+The battery is dead, its current dry.  
+The screen which once it filled with light is dark.  
+But if one asked its ghost how it did die,  
+Its ghost would not regret a single spark.  
+
+The battery is dead.  We cannot weep!  
+It is too precious for the likes of Death.  
+We will not leave it in its silent sleep;  
+Our knowledge can give it another breath.  
+
+We'll use adapters even as we mourn,  
+And Battery will rise again, reborn.  
 
 
 
