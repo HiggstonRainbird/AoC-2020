@@ -19,6 +19,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 8: Handheld Halting
 * Day 9: Encoding Error
 * Day 10: Adapter Array
+* Day 11: Seating System
 
 ## Poems
 
@@ -345,9 +346,13 @@ Our knowledge can give it another breath.
 We'll use adapters even as we mourn,  
 And Battery will rise again, reborn.  
 
+### Day 11: Lazy Limerick #2
 
-
-
+If you're quick, you'll get dibs on a seat  
+With a property unusually neat:  
+Despite all the folks there,  
+You'll still have your own chair,  
+And an second, to prop up your feet.  
 
 
 
