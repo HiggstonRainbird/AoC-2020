@@ -20,6 +20,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 9: Encoding Error
 * Day 10: Adapter Array
 * Day 11: Seating System
+* Day 12: Rain Risk
 
 ## Poems
 
@@ -353,6 +354,19 @@ With a property unusually neat:
 Despite all the folks there,  
 You'll still have your own chair,  
 And an second, to prop up your feet.  
+
+### Day 12: It Could Be Worse
+
+No question that this new delay's as vexing as can be.  
+Storms swirl around with crashing waves, and noise like in a war.  
+Except...we still can navigate.  We are not lost at sea.  
+When waypoints guide us on our way, we'll find a safer shore.  
+
+Look up and smile at our course; it could be worse than this:  
+Rough seas and a few days' delay?  Nuisance is all it is,  
+For I have heard of Gilligan; our luck's not worse than his.  
+
+
 
 
 
