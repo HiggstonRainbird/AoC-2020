@@ -21,6 +21,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 10: Adapter Array
 * Day 11: Seating System
 * Day 12: Rain Risk
+* Day 13: **Shuttle Search** (The code represents the Mathematica built-in; the poem represents the brute-force)
 
 ## Poems
 
@@ -365,6 +366,138 @@ When waypoints guide us on our way, we'll find a safer shore.
 Look up and smile at our course; it could be worse than this:  
 Rough seas and a few days' delay?  Nuisance is all it is,  
 For I have heard of Gilligan; our luck's not worse than his.  
+
+### Day 13: Remains
+
+**Setup**
+
+You're waiting for a shuttle    
+That'll take you far away.    
+But you're counting every second    
+And you've been here for a day.    
+
+And you're counting all the buses    
+'Cause there's nothing else to see,    
+And you notice bus `11`'s    
+Twice the speed of `23`.    
+
+So you take your pen and paper    
+To transcribe when each departs,    
+But your fingers start to tingle,    
+And your hand just really smarts.    
+
+Rather than write forever,    
+You'll use other 'smarts' instead.    
+And you'll swap the pen and paper    
+For a table in your head.    
+
+Since the buses never linger    
+And they never change their route,    
+You can chart them for an eon,    
+With no second's worth of doubt.    
+
+**Part 1**
+
+So just how long will you linger    
+By these shuttles on the port?    
+When's the first flight off this island?    
+Where's the spa at the resort?    
+
+Simply find the 'mod's of buses    
+Labeled up to '59',    
+With respect to timestamp `input`    
+To find out where they align.    
+
+The remains of the division    
+Of your timestamp by the bus    
+Is the `modulus` you're after    
+So that you may use it thus:    
+
+Whichever `mod`'s the smallest    
+Represents the first to show.    
+Multiply the wait, in minutes,    
+By the bus, and off you go.    
+
+**Part 2**
+
+This alignment is a problem    
+That's much harder than the first.    
+See, you *start* with all the offsets    
+And need what you did, reversed!    
+
+Bus `7` comes at timestamp `t`.    
+Bus `13`, `t` plus `1`.    
+Bus `59` at `t` plus `4`,    
+And `6` for `31`.    
+
+But counting's not an option    
+For a trillion steps or more.    
+Your head still hurts from shuffling    
+[all those cards the year before](https://adventofcode.com/2020/day/13).    
+
+There's a Theorem, made in China,    
+That would be the perfect fit.    
+But alas, your web connection    
+Is just awful where you sit.    
+
+So you start to ponder offsets    
+As you scribble down them all    
+"Do I *have* to start so early?    
+Must the increment be small?"    
+
+"What if I", you think, "skip further    
+And begin at `7` flat?    
+Surely there's no smaller number     
+Which still fits with all of that."    
+
+So you start your count at `7`,    
+But the going's pretty slow.    
+"It's the increment," you realize.    
+"It *starts* small, but it could grow!"    
+
+So you start again at `7`    
+But from there, jump to `14`,    
+Since that first offset's impossible    
+For numbers in between.    
+
+And, iterating upwards,    
+You quickly reach the spot    
+Where `13` is just one minute off,    
+And `7`'s on the dot.    
+
+Three score plus fourteen minutes    
+Tells you where those two will meet.    
+And you realize there's a *second*    
+Jump to write down on your sheet.    
+
+Bus `13` and bus `7`    
+Won't align again until    
+Ninety-one more minutes happen    
+And the next one, further still.    
+
+So bus `59` must line up    
+With the buses that you've done.    
+So you're counting not by `7` -    
+You go up by `91`!    
+
+On and upwards do you take this,    
+Taking steps with longer strides    
+And eleven hundred later,    
+You know just how long you'd wait.    
+
+**Epilogue**
+
+I enjoyed this one immensely,    
+For the knowledge that it taught    
+Thanks to Tim, I really pondered    
+What I'd yet to give much thought.    
+
+In conclusion, this will manage,    
+But the leaderboard's for me.    
+Mathematica is awesome,    
+I love built-ins.  Q.E.D.    
+
+
 
 
 
