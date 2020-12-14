@@ -21,7 +21,8 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 10: Adapter Array
 * Day 11: Seating System
 * Day 12: Rain Risk
-* Day 13: **Shuttle Search** (The code represents the Mathematica built-in; the poem represents the brute-force)
+* Day 13: **Shuttle Search** (The code represents the Mathematica built-in; the poem below represents the brute-force)
+* Day 14: Docking Data
 
 ## Poems
 
@@ -369,7 +370,7 @@ For I have heard of Gilligan; our luck's not worse than his.
 
 ### Day 13: Remains
 
-**Setup**
+*Setup*
 
 You're waiting for a shuttle    
 That'll take you far away.    
@@ -396,7 +397,7 @@ And they never change their route,
 You can chart them for an eon,    
 With no second's worth of doubt.    
 
-**Part 1**
+*Part 1*
 
 So just how long will you linger    
 By these shuttles on the port?    
@@ -418,7 +419,7 @@ Represents the first to show.
 Multiply the wait, in minutes,    
 By the bus, and off you go.    
 
-**Part 2**
+*Part 2*
 
 This alignment is a problem    
 That's much harder than the first.    
@@ -481,14 +482,14 @@ So you're counting not by `7` -
 You go up by `91`!    
 
 On and upwards do you take this,    
-Taking steps with longer strides    
+Taking steps with longer gait,    
 And eleven hundred later,    
 You know just how long you'd wait.    
 
-**Epilogue**
+*Epilogue*
 
 I enjoyed this one immensely,    
-For the knowledge that it taught    
+For the knowledge that it taught.    
 Thanks to Tim, I really pondered    
 What I'd yet to give much thought.    
 
@@ -496,6 +497,27 @@ In conclusion, this will manage,
 But the leaderboard's for me.    
 Mathematica is awesome,    
 I love built-ins.  Q.E.D.    
+
+### Day 14: I Can't Read
+
+When Advent comes around each year I pause,    
+And ponder whether I should play the game.    
+The contest's fun; I hesitate because,    
+To enter will reveal my secret shame.    
+
+It is not skill in coding that I lack;    
+I'm not the greatest, but I'm good enough.    
+I know the difference 'twist a `deque` and `stack`,    
+And know my `moduli`, and other stuff.    
+
+My shame is this: I don't know how to read.    
+I've gotten by thus far on simple luck.    
+On days like these, I skim the text for speed,    
+And spend an hour, frustrated and stuck.    
+
+But maybe, in some Advent yet to be,    
+I'll learn to read the problems.  That's the key.    
+
 
 
 
