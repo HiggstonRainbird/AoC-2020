@@ -23,6 +23,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 12: Rain Risk
 * Day 13: **Shuttle Search** (The code represents the Mathematica built-in; the poem below represents the brute-force)
 * Day 14: Docking Data
+* Day 15: Rambunctious Recitation
 
 ## Poems
 
@@ -518,7 +519,13 @@ And spend an hour, frustrated and stuck.
 But maybe, in some Advent yet to be,    
 I'll learn to read the problems.  That's the key.    
 
+### Day 15: Lazy Limerick #3
 
+If you use an array, be emphatic  
+To preallocate it (but not static).  
+For you can't beat brute force  
+For this problem, of course,  
+But you can beat an order quadratic.  
 
 
 
