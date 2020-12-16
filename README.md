@@ -24,6 +24,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 13: **Shuttle Search** (The code represents the Mathematica built-in; the poem below represents the brute-force)
 * Day 14: Docking Data
 * Day 15: Rambunctious Recitation
+* Day 16: Ticket Translation
 
 ## Poems
 
@@ -406,7 +407,7 @@ When's the first flight off this island?
 Where's the spa at the resort?    
 
 Simply find the 'mod's of buses    
-Labeled up to '59',    
+Labeled up to `59`,    
 With respect to timestamp `input`    
 To find out where they align.    
 
@@ -430,7 +431,7 @@ And need what you did, reversed!
 Bus `7` comes at timestamp `t`.    
 Bus `13`, `t` plus `1`.    
 Bus `59` at `t` plus `4`,    
-And `6` for `31`.    
+Plus `6` for `31`.    
 
 But counting's not an option    
 For a trillion steps or more.    
@@ -508,7 +509,7 @@ To enter will reveal my secret shame.
 
 It is not skill in coding that I lack;    
 I'm not the greatest, but I'm good enough.    
-I know the difference 'twist a `deque` and `stack`,    
+I know the difference 'twixt a `deque` and `stack`,    
 And know my `moduli`, and other stuff.    
 
 My shame is this: I don't know how to read.    
@@ -526,6 +527,40 @@ To preallocate it (but not static).
 For you can't beat brute force  
 For this problem, of course,  
 But you can beat an order quadratic.  
+
+## Day 16: Self-Reflection
+
+There are times I stop and ponder,  
+As I'm waiting to depart,  
+Whether I'm in fact, the bad guy,  
+Though I'm innocent at heart.  
+
+Hacking into airport cameras  
+Doesn't fit your average geek,  
+But I've hacked through those (and networks)  
+Thrice or more, just this past week.  
+
+I've scanned through people's tickets  
+Both for land trains and for flights.  
+I've forgotten last week's passwords,  
+'Cause I'm busy with tonight's.  
+
+Is there coal bound for my stocking,  
+When I hang it up at last,  
+Even though I've aided Santa  
+Several times in Christmas Past?  
+
+I suppose there is an option,  
+When the Big Guy makes his list.  
+Since he checks it two times only,  
+Maybe I can still be missed.  
+
+If the list is based on hashes,  
+I think I'll know what to do.  
+When the Naughty List comes calling...  
+
+...I think I'll just hack that too.  
+
 
 
 
