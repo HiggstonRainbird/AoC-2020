@@ -25,6 +25,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 14: Docking Data
 * Day 15: Rambunctious Recitation
 * Day 16: Ticket Translation
+* Day 17: Conway Cubes
 
 ## Poems
 
@@ -528,7 +529,7 @@ For you can't beat brute force
 For this problem, of course,  
 But you can beat an order quadratic.  
 
-## Day 16: Self-Reflection
+### Day 16: Self-Reflection
 
 There are times I stop and ponder,  
 As I'm waiting to depart,  
@@ -561,7 +562,27 @@ When the Naughty List comes calling...
 
 ...I think I'll just hack that too.  
 
+### Day 17: [A Game of Life](https://poets.org/poem/you-it-act-ii-scene-vii-all-worlds-stage)
 
+All the world's a game,  
+And all the cubes and spaces merely pieces;  
+Void remains the same,  
+And next to cubes, activity increases.  
+
+All the world's a stage,  
+And one cube in its time plays but a part.  
+Spaces never age,  
+Unless three cubes adjoin them one apart.  
+
+All the world's a grid.  
+And states all change in unison each minute.  
+Fractions are forbid,  
+And cubes which stand alone shall fail to win it.  
+
+All the world's a knot:  
+One's neighbors keep one living, or deceased.  
+4D is a lot,  
+But six timesteps aren't terrible, at least.  
 
 
 
