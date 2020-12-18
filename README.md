@@ -26,6 +26,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 15: Rambunctious Recitation
 * Day 16: Ticket Translation
 * Day 17: Conway Cubes
+* Day 18: **Operation Order** (Some fun abuse of Mathematica's `ToExpression` function)
 
 ## Poems
 
@@ -584,8 +585,44 @@ One's neighbors keep one living, or deceased.
 4D is a lot,  
 But six timesteps aren't terrible, at least.  
 
+### Day 18: Operator
 
+The operator called me back  
+And told me not to fret.  
+"There's precedence for this", she said.  
+"So don't you give up yet."  
 
+I was surprised she held the line;  
+Perhaps a quiet night.  
+"I'm sure your friend just dropped the phone.  
+I'm sure that he's alright."  
 
+She must have heard that awful noise  
+That came across the line.  
+An instant later, it was cut;  
+That second scream was mine.  
 
+"I've never heard a sound like that"  
+I told her.  "But have you?"  
+She talked as though she forced a smile.  
+"Like that?  I've heard a few."  
 
+"You'd be surprised," she said to me,  
+"At just how bad things sound  
+When there's some static on the line.  
+I'm sure he'll come around."  
+
+I must confess that I lost hope,  
+But I stayed on the phone.  
+I would have panicked and hung up,  
+Had I been there alone.  
+
+And suddenly, she said to me,  
+"Ahh, there's his line right now.  
+I'll patch him through on back to you.  
+Enjoy your evening.  Ciao!"  
+
+I thanked the operator and  
+I got my pad and pen.  
+"Where were we?  Ahh, nested parens-"  
+I heard him scream again.  
