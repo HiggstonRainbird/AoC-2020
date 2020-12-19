@@ -27,6 +27,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 16: Ticket Translation
 * Day 17: Conway Cubes
 * Day 18: **Operation Order** (Some fun abuse of Mathematica's `ToExpression` function)
+* Day 19: Monster Messages
 
 ## Poems
 
@@ -626,3 +627,24 @@ I thanked the operator and
 I got my pad and pen.  
 "Where were we?  Ahh, nested parens-"  
 I heard him scream again.  
+
+### Day 19: ABAB AAAAA BBBA BA
+
+I got word from the elves that there's something at sea  
+When I got to the airport today.  
+They were very excited, inside M.I.B.,  
+At the [Snark](https://www.gutenberg.org/files/29888/29888-h/29888-h.htm) they had seen in the spray.  
+
+They were certain the pictures they'd forwarded me  
+Showed a Snark - and they noted the waves and debris  
+On the side that was windward and that which was lee,  
+But while most types of Snarks wander friendly and free,  
+There's a subtype - a Boojum - that's lethal to see!  
+
+I attempted to warn them, while hitting replay,  
+That to picture a Boojum brings danger your way!  
+
+But I told them to stop and they did not obey;  
+They said nothing whatever to me.  
+They had softly and suddenly vanished away -  
+For the Snark *was* a Boojum, you see.  
