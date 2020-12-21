@@ -28,6 +28,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 17: Conway Cubes
 * Day 18: **Operation Order** (Some fun abuse of Mathematica's `ToExpression` function)
 * Day 19: Monster Messages
+* Day 20: Jurassic Jigsaw
 
 ## Poems
 
@@ -648,3 +649,20 @@ But I told them to stop and they did not obey;
 They said nothing whatever to me.  
 They had softly and suddenly vanished away -  
 For the Snark *was* a Boojum, you see.  
+
+### Day 20: Monster
+
+There were whispers and rumors that drifted about  
+When the weeks passed on by, parsing problems throughout,  
+That the problems this year were not quite up to snuff;  
+"From the times on the board, they just can't be that tough!"  
+
+For the parsers were simple (in theory) to write,  
+And the moduli, too, could be brute forced alright.  
+There was no theme like Intcode that stretched through the year,  
+So we waited, breath bated, for one to appear.  
+
+There were hints, like day nineteen (and sixteen as well),  
+Of the monster, submerged in the depth of the swell,  
+Until, twenty days in, we all witnessed with glee  
+As a challenge rose up like a beast from the sea.  
