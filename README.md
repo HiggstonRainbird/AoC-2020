@@ -666,3 +666,50 @@ There were hints, like day nineteen (and sixteen as well),
 Of the monster, submerged in the depth of the swell,  
 Until, twenty days in, we all witnessed with glee  
 As a challenge rose up like a beast from the sea.  
+
+### Day 21: Ingredients
+
+There are a few ingredients  
+This product may contain.  
+There's shellfish, dairy, eggs, and soy,  
+And onions grown in Spain.  
+
+There's peanuts somewhere in the mix,  
+And pumpkin's in there too.  
+We think we dropped some eggs inside;  
+The case was loose.  Who knew?  
+
+There is a little water, too.  
+Don't fret: it's gluten-free.  
+There's not much salt inside it, though;  
+Just grab some out at sea.  
+
+There's not a chemical in sight;  
+No additives are here.  
+No harmful processed stuff to vex  
+A daring bucanner.  
+
+The mercury should hit the spot,  
+E. Coli's there for taste,  
+And trace amounts of lead inside  
+Won't go towards your waist.  
+
+We cook like Mama used to cook.  
+We think that she'd be proud.  
+Though she wasn't the greatest cook-  
+(Whoops, can't say that aloud).  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
