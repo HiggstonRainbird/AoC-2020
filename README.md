@@ -29,6 +29,8 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 18: **Operation Order** (Some fun abuse of Mathematica's `ToExpression` function)
 * Day 19: Monster Messages
 * Day 20: Jurassic Jigsaw
+* Day 21: Allergen Assessment
+* Day 22: Crab Combat
 
 ## Poems
 
@@ -696,16 +698,45 @@ Won't go towards your waist.
 
 We cook like Mama used to cook.  
 We think that she'd be proud.  
-Though she wasn't the greatest cook-  
+Though she's not the greatest cook-  
 (Whoops, can't say that aloud).  
 
+### Day 22: Just Me and the Crab
 
+That crab and I go back a while;  
+We met one day at sea.  
+We sailed to reach a beachy isle,  
+'Twas just the crab and me.  
 
+We played some cards, the crab and I,  
+To while the time away,  
+He's good at Combat, clever guy.  
+He'd win most times we'd play.  
 
+The games were much too short to last  
+Until we reached the shore,  
+So we recursed, using the mast  
+To help us keep the score.  
 
+We talked a lot, the crab and I,   
+As we recursed and played.  
+Of puzzles past and friends gone by  
+And pools we used to wade.  
 
+And as those days went by, I knew  
+That I had found a friend:  
+Opponent, but a buddy too.  
+But all such travels end.  
+ 
+[I didn't hug him, t'would be rude.](https://tearlessrain.tumblr.com/post/183703323457)  
+I simply shook his claw.  
+But I still felt such gratitude;  
+I'd like to think he saw.  
 
-
+And one small tear rolled down my cheek,  
+As we said our goodbye.  
+I'll always miss him when I speak  
+Of just the crab and I.  
 
 
 
