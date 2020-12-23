@@ -31,6 +31,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 20: Jurassic Jigsaw
 * Day 21: Allergen Assessment
 * Day 22: Crab Combat
+* Day 23: Crab Cups
 
 ## Poems
 
@@ -736,7 +737,30 @@ I'd like to think he saw.
 And one small tear rolled down my cheek,  
 As we said our goodbye.  
 I'll always miss him when I speak  
-Of just the crab and I.  
+About the crab and I.  
+
+### Day 23: A Million Cups
+
+There's now a million cups aboard the boat,  
+And I have no idea whence they came.  
+I'm baffled as to how we stay afloat,  
+For long enough to play this second game.  
+
+This cornucopia won't phase the crab;  
+A tad less philosophical is he.  
+But I can't help but try to take a stab,  
+At just how all these goblets came to be.  
+
+Did I bring them aboard?  And if so, how?  
+Were they inside my `gold` and `shiny` case?  
+If that's the case, I think the question now  
+Is how I'm gonna get them back in place.  
+
+The elves play games like this one back at home,  
+And so a million rounds?  No sweat for me.  
+So I suppose I'll sit here, drifting on the foam,  
+Beside a million cups gone out to sea.  
+
 
 
 
