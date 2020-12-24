@@ -32,6 +32,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 21: Allergen Assessment
 * Day 22: Crab Combat
 * Day 23: Crab Cups
+* Day 24: **Lobby Layout** (This code is terrible; [/u/Adereth's code on Reddit](https://old.reddit.com/r/adventofcode/comments/kj96iw/2020_day_24_solutions/ggvlwoc/) is both more efficient and much more elegant.)
 
 ## Poems
 
@@ -761,10 +762,29 @@ And so a million rounds?  No sweat for me.
 So I suppose I'll sit here, drifting on the foam,  
 Beside a million cups gone out to sea.  
 
+### Day 24: One Day More
 
+We've reached the shore at last;  
+This trip's been awfully slow.  
+Three weeks and change have passed,  
+With one more day to go.  
 
+But even Christmas Eve,  
+Appears to have construction.  
+We can't just quit and leave;  
+Instead we'll try deduction.  
 
+We have a path to walk,  
+But we can make it better;  
+We're not in shape, and balk  
+At hiking every letter.  
 
+The exhibition, too  
+We'll think and simulate.  
+A hundred-day debut  
+Is just too long to wait.  
 
-
-
+A moment's more delay,  
+Would only bring us sorrow,  
+But we've arrived today,  
+And Christmas comes tomorrow!  
