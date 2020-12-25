@@ -73,7 +73,7 @@ We've tried warnings, but none of it sticks."
 
 Said the suit on the left to the suit on the right,  
 "Then if warnings won't do, we need more.  
-The incredible secrets of Tobaggan Inc.,  
+The incredible secrets of Toboggan Inc.,  
 Must not reach the sled rental next door."
 
 Said the suit in the front to the suits on the side,  
@@ -788,3 +788,59 @@ A moment's more delay,
 Would only bring us sorrow,  
 But we've arrived today,  
 And Christmas comes tomorrow!  
+
+### Day 25: The Stars
+
+There's a star by the pole, looking over the snow,  
+Where a forest has patterns for trees all to grow,  
+And a toboggan pauses a moment or two,  
+As a suit in the seat ponders up at the view.  
+
+We've been chasing the stars, everywhere that we've gone.  
+We've been up way past midnight, or well before dawn.  
+And each day, there are two precious stars that we seek,  
+So we skip out on sleep for a month (less a week).  
+
+There's a star in the north that you see from the plane,  
+While departing the airport (with customs insane),  
+And the baggage attendent, with bags by the score  
+Wondered why that one star wasn't noticed before.  
+
+There are stars that are easy and stars that are tough,  
+And the going's all smooth 'till the waters get rough.  
+We have found when the buses will all be in sync,  
+And we've learned not to wait for an eon, but think.  
+
+There's a star by the sea a crustaceon regards  
+For a moment or two while he's playing with cards,  
+And much further away is a gigantic eye  
+Of a monster observing the star in the sky.  
+
+Every year we come back and re-enter the game.  
+Every year it is different, but somehow the same.  
+In the story, we sigh when we're called for repair,  
+But in truth, we enjoy these, whenever or where.  
+
+ENVOI  
+
+There's a star in the back, where the problems are made,  
+And the website is hosted and bandwidth is paid,  
+And the puzzle creator's a star, with no doubt;  
+Merry Christmas to Topaz - with sleep or without.  
+
+These three weeks and four days are exhausting, but fun,  
+And I'll miss all the puzzles, and miss everyone.  
+Merry Christmas to coders, wherever you are:  
+Like the wise men before us, we'll follow a star.  
+
+
+
+
+
+
+
+
+
+
+
+
