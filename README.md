@@ -33,6 +33,7 @@ As there's a [creative craftsmanship challenge](https://old.reddit.com/r/advento
 * Day 22: Crab Combat
 * Day 23: Crab Cups
 * Day 24: **Lobby Layout** (This code is terrible; [/u/Adereth's code on Reddit](https://old.reddit.com/r/adventofcode/comments/kj96iw/2020_day_24_solutions/ggvlwoc/) is both more efficient and much more elegant.)
+* Day 25: Combo Breaker
 
 ## Poems
 
@@ -803,7 +804,7 @@ So we skip out on sleep for a month (less a week).
 
 There's a star in the north that you see from the plane,  
 While departing the airport (with customs insane),  
-And the baggage attendent, with bags by the score  
+And the baggage attendant, with bags by the score,  
 Wondered why that one star wasn't noticed before.  
 
 There are stars that are easy and stars that are tough,  
@@ -811,10 +812,10 @@ And the going's all smooth 'till the waters get rough.
 We have found when the buses will all be in sync,  
 And we've learned not to wait for an eon, but think.  
 
-There's a star by the sea a crustaceon regards  
+There's a star by the sea a crustacean regards  
 For a moment or two while he's playing with cards,  
-And much further away is a gigantic eye  
-Of a monster observing the star in the sky.  
+And much further away is the gigantic eye  
+Of a monster observing a star in the sky.  
 
 Every year we come back and re-enter the game.  
 Every year it is different, but somehow the same.  
@@ -825,22 +826,10 @@ ENVOI
 
 There's a star in the back, where the problems are made,  
 And the website is hosted and bandwidth is paid,  
-And the puzzle creator's a star, with no doubt;  
+So the puzzle creator's a star, with no doubt;  
 Merry Christmas to Topaz - with sleep or without.  
 
 These three weeks and four days are exhausting, but fun,  
 And I'll miss all the puzzles, and miss everyone.  
 Merry Christmas to coders, wherever you are:  
-Like the wise men before us, we'll follow a star.  
-
-
-
-
-
-
-
-
-
-
-
-
+Like the wise men, we'll meet chasing after a star.
